@@ -1,1 +1,1 @@
-Download MP3s of tracks/sets from SoundCloud, Bandcamp, YouTube with tags. Developer: @gpchelkin, Backup: @scdltestbot
+SoundCloud, Bandcamp, YouTube'dan etiketlerin MP3'lerini indirin. Developer: @ZeuS0010
