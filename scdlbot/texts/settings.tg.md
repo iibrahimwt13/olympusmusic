@@ -1,3 +1,3 @@
-Select working mode for messages *without command*.
-Sane defaults are *Download* for *PM* and *Ask* for groups.
-Toggle *Captions* off: send audios *without source captions* and *not as replies*.
+Komut olmadan * mesajlar için çalışma modunu seçin *.
+Varsayılan değerler, * PM * için * İndir * ve gruplar için * Sor * şeklindedir.
+* Altyazıları * kapatın: sesleri * kaynak altyazıları olmadan * ve * yanıt olarak değil * gönderin.
