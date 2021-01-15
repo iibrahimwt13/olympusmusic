@@ -1,6 +1,7 @@
 Music Downloader Telegram Bot aka scdlbot
 =========================================
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iibrahimwt13/olympusmusic)
 
 .. image:: https://img.shields.io/badge/telegram-@scdlbot-blue.svg
         :target: https://t.me/scdlbot
@@ -269,5 +270,3 @@ https://github.com/dokku/dokku-letsencrypt
     ssh $DOKKU
         dokku ps:scale scdlbot worker=1 web=0
         dokku ps:restart scdlbot
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iibrahimwt13/olympusmusic)
