@@ -1,4 +1,3 @@
-*Sorry*, no supported links found in your request.
-Or, if it was YouTube link, YouTube just didn't let me download from it too repeatedly..
-Just wait and try again later, or try my test version bot: @scdltestbot or some another bot like @utubebot.
-For more information see /help
+* Üzgünüz *, isteğinizde desteklenen bağlantı bulunamadı.
+Veya YouTube bağlantısı olsaydı, YouTube tekrar tekrar indirmeme izin vermedi ...
+Daha fazla bilgi için, bkz /help
