@@ -270,5 +270,4 @@ https://github.com/dokku/dokku-letsencrypt
         dokku ps:scale scdlbot worker=1 web=0
         dokku ps:restart scdlbot
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)(https://github.com/iibrahimwt13/olympusmusic.git)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iibrahimwt13/olympusmusic)
